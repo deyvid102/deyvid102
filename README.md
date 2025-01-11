@@ -14,5 +14,9 @@
   
 </div><br/>
 
-
 ## <h4>Desenvolvedor Back-End em java e estudante de análise e desenvolvimento de sistemas pela UNOPAR/ANHAGUERA.
+
+<img align="center" alt="tbl" src="https://github-readme-stats.vercel.app/api?username=deyvid102&theme=blue-green">
+<img align="center" alt="tbl" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvid102&theme=blue-green">
+
+<!-->
