@@ -18,6 +18,7 @@
 <img align="center" alt="react" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></div> 
 </br>
 <p>Desenvolvedor Back-End em java e estudante de análise e desenvolvimento de sistemas pela UNOPAR/ANHAGUERA.
+<p>contato: deyvidwellingtoncontato152@gmail.com</p>
   
 </div><br/>
 
