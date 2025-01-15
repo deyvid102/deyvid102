@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deyvid-wellington-013143340)
 
 <div style="display: inline_block">
-<img align="center" alt="status" src="https://github-readme-stats.vercel.app/api?username=deyvid102&theme=blue-green">
+<!--<img align="center" alt="status" src="https://github-readme-stats.vercel.app/api?username=deyvid102&theme=blue-green">_-->
 <img align="center" alt="tbl" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvid102&theme=blue-green">
 </div>
 
